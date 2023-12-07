@@ -9,3 +9,6 @@ You can download the data and data preprocessing code required by the model thro
 # baseline modal
 链接：https://pan.baidu.com/s/1HxHRif84C9nVv7mzPdNuTQ?pwd=l9wa 
 提取码：l9wa 
+
+# how to run
+You can save the dataset locally and then run main_gnn.py
