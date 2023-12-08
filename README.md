@@ -18,3 +18,6 @@ dgl = 0.5.2
 
 # how to run
 You can save the dataset locally and then run main_gnn.py
+
+>python run main_gnn.py
+>
